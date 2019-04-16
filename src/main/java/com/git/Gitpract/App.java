@@ -7,7 +7,11 @@ package com.git.Gitpract;
 public class App 
 {
 	public void demo() {
-		System.out.println("ont method");
+		System.out.println("one method");
+	}
+	
+	public void demoTest() {
+		System.out.println("second method");
 	}
     public static void main( String[] args )
     {
